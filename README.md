@@ -4,7 +4,7 @@ A Python CLI pipeline for batch processing National Provider Identifier (NPI) da
 # Installation
 Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/yourusername/NPI-Provider-Scraper.git
+git clone https://github.com/BokhtiarFoysol/NPI-Provider-Scraper.git
 cd NPI-Provider-Scraper
 pip install -r requirements.txt
 playwright install chromium
